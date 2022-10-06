@@ -1,0 +1,1 @@
+Pada praktikum 2 ini saya memahami tentang penggunaan github dengan mempraktikan cara membuat file repo pada github dan mempush atau menguploadnya pada git tersebut. tidak lupa ketika mengupload segala perubahan haruslah menuliskan komentar/commitnya
